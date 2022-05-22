@@ -29,3 +29,5 @@
 
 
 ok it is finished.
+
+# installation training link: https://www.thewindowsclub.com/how-to-install-ffmpeg-on-windows-10#:~:text=Click%20New%20and%20type%20the,Click%20OK%20to%20apply%20changes.
