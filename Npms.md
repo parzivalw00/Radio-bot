@@ -8,4 +8,4 @@
 
 
 <div align="center"> Watch out,
-  First install ffmpeg and then write in the empty terminal: ffmpeg
+  First install ffmpeg and then write in the empty terminal: ffmpeg </div>
