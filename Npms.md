@@ -17,6 +17,6 @@
 
 2: Extract the file
 
-3: create a folder on drive c in the main environment: Folder name(ff)
+3: create a folder on drive c in the main environment: Folder name: ff
 
 4:
