@@ -15,7 +15,7 @@
 
 <div align="center"> Let's do it and install ffmpeg </div>
 
-1-Link Download ffmpeg: https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-lgpl.zip
+1: Link Download ffmpeg: https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-lgpl.zip
 
 2: Extract the file
 
