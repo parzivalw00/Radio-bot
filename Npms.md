@@ -16,3 +16,7 @@
 1-Link Download ffmpeg: https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-lgpl.zip
 
 2: Extract the file
+
+3: create a folder on drive c in the main environment: Folder name(ff)
+
+4:
