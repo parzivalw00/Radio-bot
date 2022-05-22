@@ -9,3 +9,6 @@
 
 # <div align="center"> Watch out </div>
 <div align="center">!! [ First install ffmpeg and then write in the empty terminal: ffmpeg ] !! </div>
+
+
+<div align="center"> Let's do it and install ffmpeg </div>
