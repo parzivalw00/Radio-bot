@@ -28,7 +28,7 @@ ff
 
 6: In bottom click on Environment Variables
 
-7: Find the path file in both menus Open it and click on | Now type c:\ff\bin in the box and click ok 
+7: Find the path file in both menus Open it and click on Now | type c:\ff\bin in the box and click ok 
 
 
 ok it is finished.
