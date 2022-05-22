@@ -7,4 +7,5 @@
 ###### <div align="center"> npm install @discordjs/opus </div>
 
 
-
+<div align="center"> Watch out,
+  First install ffmpeg and then write in the empty terminal: ffmpeg
