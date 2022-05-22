@@ -19,4 +19,6 @@
 
 3: create a folder on drive c in the main environment: Folder name: ff
 
-4:
+4: Open My Computer Right-click on the main page and click properties
+
+5:
