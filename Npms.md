@@ -21,4 +21,11 @@
 
 4: Open My Computer Right-click on the main page and click properties
 
-5:
+5: Click Advanced systeam settings on the left
+
+6: In bottom click on Environment Variables
+
+7: Find the path file in both menus Open it and click on | Now type c:\ff\bin in the box and click ok 
+
+
+ok it is finished.
