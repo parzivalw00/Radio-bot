@@ -19,7 +19,8 @@
 
 2: Extract the file
 
-3: create a folder on drive c in the main environment: Folder name: ff
+3: create a folder on drive c in the main environment: Folder name: ff and moved files in
+ff
 
 4: Open My Computer Right-click on the main page and click properties
 
