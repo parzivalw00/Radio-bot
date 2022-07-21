@@ -4,7 +4,7 @@
 
 #### Refer to package.json for npms installation tuturial and installing ffmpeg
 
-```
+```json
 upload musics in music folder & update config.json:
 
 {
