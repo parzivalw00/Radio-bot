@@ -8,6 +8,6 @@
 upload musics in music folder & update config.json:
 
 {
-    "video_urls": ["./music/1.mp3", "./music/2.mp3", "./music/3.mp3"]
+    "video_urls": ["./music/1.mp3", "./music/2.mp3", "./music/3.mp3"] // add other Musics
 }
 ```
