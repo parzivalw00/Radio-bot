@@ -2,4 +2,4 @@
 
 #### discord radio bot with ffmpeg
 
-#### Refer to Npms.md for npms installation tuturial and installing ffmpeg
+#### Refer to packaje.json for npms installation tuturial and installing ffmpeg
