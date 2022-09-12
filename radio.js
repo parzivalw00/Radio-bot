@@ -1,10 +1,10 @@
-const express = require('express');
-const app = express();
+const express = require('express')
+const app = express()
 const port = 5005;
 const {
     video_urls
-} = require("./config.json");
-app.get('/', (req, res) => res.send('Bot Is Working Well!'));
+} = require("./config.json")
+app.get('/', (req, res) => res.send('Bot Is Working Well!'))
 app.listen(port, () => 
     console.log(`Example app listening at https://loclhost:${port}`)
 );
@@ -17,7 +17,7 @@ const bot2 = new Discord.Client();
 const bot3 = new Discord.Client();
 const bot4 = new Discord.Client();
 const bot5 = new Discord.Client();
-const {error, success } = require('./config.json');
+const {error, success } = require('./config.json')
 
 
 bot.on("ready", () => {
